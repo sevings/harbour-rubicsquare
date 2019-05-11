@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Button.qml</file>
+        <file>Dialog.qml</file>
+        <file>harbour-rubicsquare.qml</file>
+        <file>Settings.qml</file>
+        <file>Square.qml</file>
+        <file>squarik.js</file>
+        <file>Squarik.qml</file>
+    </qresource>
+</RCC>
